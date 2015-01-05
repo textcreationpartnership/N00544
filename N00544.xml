@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000672_0000_0FA99F54B00F0A20"/>
-            <pb facs="tcp:000672_0001_0FA99F5689278950" rendition="simple:additions"/>
+            <pb facs="unknown:000672_0000_0FA99F54B00F0A20"/>
+            <pb facs="unknown:000672_0001_0FA99F5689278950"
+                rendition="simple:additions"/>
             <head>BY HIS EXCELLENCY, <hi>Benjamin Fletcher,</hi> Captain General and Governour-in-Chief of their Majesties Province of New-York, Province of Pennsylvania, County of New-Castle, and the Territories and Tracts of Land depending thereon, in America, and Vice Admiral of the same.</head>
             <head type="sub">A PROCLAMATION.</head>
             <opener>
